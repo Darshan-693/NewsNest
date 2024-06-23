@@ -1,6 +1,6 @@
 import "../App.css";
 import {Link} from 'react-router-dom';
-function App() {
+function Start() {
   return (
     <div className="main">
       <center><h1>News-Nest</h1></center>
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default Start;
